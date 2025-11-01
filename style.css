@@ -31,7 +31,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   overflow-x: hidden;
-  z-index: 10000px;
+  z-index: 100px;
 }
 
 .container {
